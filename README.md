@@ -6,9 +6,7 @@ A real-time computer vision app that uses **YOLOv11** to simultaneously perform:
 
 Both run live on a webcam feed, with on-screen overlays for bounding boxes, track IDs, confidence scores, FPS, person count, and face count.
 
-## Demo
 
-*(Add a screenshot or GIF of the app running here — e.g. `assets/demo.gif`)*
 
 ## Features
 
