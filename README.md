@@ -80,9 +80,6 @@ python main.py
 - [PyTorch](https://pytorch.org/) (with MPS support for Apple Silicon)
 - [ByteTrack](https://github.com/ifzhang/ByteTrack) (via Ultralytics tracker integration)
 
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
